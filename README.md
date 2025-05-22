@@ -1,2 +1,2 @@
-Committed on 2025-05-21T12:37:46 
+Committed on 2025-05-22T12:11:02 
 Committer - https://github.com/kalpthakkar/JobPilot-AI
