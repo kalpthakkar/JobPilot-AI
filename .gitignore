@@ -26,3 +26,5 @@ config/Resume/**/*
 # Ignore entire jobs directory
 .job_db/
 .job_db/**/*
+# Ignore tests
+.tests/
