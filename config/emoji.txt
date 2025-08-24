@@ -1,0 +1,151 @@
+🚀 ✅ 🔍 ✍️ ✏️ 🧠 🧼 ❌ 🛠️ 🔧 🔒 📦 🏆 📁 📂 🗂️ 
+💡 🔥 ⚠️ 🧭 👉 🔗 🧪 ▶️ ➡️ ◀️ 🔁 🔄 🟩 🔴 🔹 🔸 🏁
+ 🤔 🏗️ 💻 ⚙️ 🎯 👣 📄 📝 🗣️ 📚 🧩 🪄 🔐 💾 🧮 🕹️ 🚧 🐛 
+ 
+
+🌟 UI feedback (progress, success, errors)
+🧠 User reactions (inputs, confirmations)
+📄 Representing resume or form sections
+✅ Statuses like completed/incomplete
+
+
+🧑‍💼 - Applicant / Professional
+🧑‍💻 - Tech Worker
+🐛 – Bug report
+🐞 – Another symbol for bug
+🪲 – Debug session / Trace log
+📦 – Upgrade / Dependency
+🔥 – Hot / Priority
+🧨 – Breaking change
+🧪 – Test / Experimental
+🧬 – Experimental / Branch off
+🪶 - Leaf / Light and Fast
+🧼 – Cleanup
+🧹 - Clean
+🔨 - Build
+🚧 – Work in progress (// 🚧 TODO)
+📝 – Notes / Docs (// 📝 Needs review)
+✨ – Polished / Enhancement
+🧻 – Temporary fix / Dirty workaround
+🩹 – Patch
+🩺 – Health check / Monitoring
+🐍 – Python-related issue (or sneakiness)
+💥 – Crash
+🚨 – Critical alert
+🧭 – Flow control
+🧩 – Modular / Plug-in
+⛓️ – Chained logic / Dependencies
+🪝 – Hook / Event binding
+🟢 - Available / Ready
+🔴 - Error / Blocked
+🟡 - Pending / Incomplete
+🔵 - Active / Ongoing
+❓ - Question
+✅ - Confirm / Proceed
+❌ - Cancel / Error
+⚠️ - Caution / Risky code / Attention
+❗ – Warning
+⏳ - Waiting
+🕐 - Time-sensitive
+🤔 - Thinking
+👀 - Reviewing
+🔄 - In Progress / Refresh / Loading
+↩️ - Return
+➰ – Recursive logic / mental loop
+♻️ - Refactor
+🚀 - Submitted / Launch
+📌 - Important
+📎 - Attachment
+📬 - Sent
+📥 - Received
+➕ – Added
+➖ – Removed
+🗑️ – Deleted file
+🎯 - Target Reached / Match
+⭐️ - Star / Recommend
+🌟 - Highlight / Recommended
+🐳 - Docker
+🐚 - Shell
+🌳 - Tree
+🪜 - Ladder
+🏁 - Complete / Final
+🧱 – Infrastructure / Base code / Base commit
+🧠 - AI Insight / Smart Suggestion
+💬 - Message
+📣 - Announcement / Prompt
+💡 – Insight / Tip
+🌍 – Website
+📡 – Signal / API ping / Satellite Antenna (for communication/AI systems)
+🌐 – Internet / Web call
+⚙️ – Gear (for machinery or automation)
+🤖 – Robot
+👨‍💻 – Man Technologist
+👩‍💻 – Woman Technologist
+🕵️ – Detective (symbolic for agent or bot behavior)
+🛰️ – Remote system / Satellite service
+🔌 – Connect / Plug-in / Integration 
+🔐 – Auth / Security / Enforce
+🛡️ – Authorization / Security / Protected
+🔑 – Credentials / Key
+📎 – Attachment / Dependency
+🧲 - Magnet 
+🎮 - Controller
+📊 – Analytics
+📈 – Performance gain
+📉 – Performance drop
+🧮 – Calculation
+🗃️ – Structured data
+🗂️ – File Folder / Indexed storage
+📁 - Folder
+📄 - Document
+🧾 - Receipt / Application
+📝 - Write docs / Comment
+🖊️ - Pen
+📋 - Clipboard
+📖 – Reference
+📚 – External docs / Learning
+🗒️ – Notes
+🧊 – Immutable / Frozen
+🖱️ - Mouse click
+🖱️➕🧠 — Mouse click to add to memory
+🖱️📥🧠 — Click to store in memory
+👆➕💾 — Click to save (append)
+🖱️🧠💡 — Click triggering memory or idea
+🖱️➕🗂️ — Click to add to files/data
+
+
+
+😀 Smileys & Emotions
+😀 😃 😄 😁 😆 😅 😂 🤣 😊 😇 🙂 🙃 😉 😌 😍 🥰 😘 😗 😙 😚
+😋 😛 😝 😜 🤪 🤨 🧐 🤓 😎 🥸 🤩 😏 😒 😞 😔 😟 😕 🙁 😢 😭
+😤 😠 😡 🤬 🤯 😳 🫣 😱 😨 😰 😥 😓 🫤 😶 😐 😑 😬 🙄 🫠
+
+👋 People & Gestures
+👋 🤚 🖐️ ✋ 🖖 👌 🤌 🤏 ✌️ 🤞 🫰 🤟 🤘 🤙 👈 👉 👆 🖕 👇 ☝️
+👍 👎 ✊ 👊 🤛 🤜 👏 🙌 🫶 👐 🤲 🤝 🙏 🫱 🫲 🫳 🫴 💅
+
+🧑‍💼 People & Professions
+👶 🧒 👦 👧 🧑 👨 👩 🧓 👴 👵 🧑‍🦱 🧑‍🦰 🧑‍🦳 🧑‍🦲 🧑‍🏫 🧑‍⚕️ 🧑‍💻 🧑‍🍳
+
+🧠 Body & Health
+🧠 🫀 🫁 🦷 🦴 👁️ 👀 👃 👄 🦵 🦶 👂
+
+🐶 Animals & Nature
+🐶 🐱 🐭 🐹 🐰 🦊 🐻 🐼 🐻‍❄️ 🐨 🐯 🦁 🐮 🐷 🐸 🐵 🐔 🐧 🐦
+🦆 🦉 🦇 🐺 🐗 🐴 🐝 🐛 🦋 🐌 🐞 🐜 🪲 🐢 🐍 🦎 🦖 🦕 🐙 🐬 🐳
+
+🍏 Food & Drink
+🍏 🍎 🍐 🍊 🍋 🍌 🍉 🍇 🍓 🫐 🍈 🍒 🍑 🥭 🍍 🥥 🥝 🍅 🥑
+🥦 🥬 🥒 🌽 🥕 🥔 🍠 🧄 🧅 🍞 🥐 🥖 🥨 🥯 🧀 🍗 🍖 🌭 🍔 🍟 🍕
+
+🚌 Travel & Places
+🚗 🚕 🚙 🚌 🚎 🏎️ 🚓 🚑 🚒 🚐 🛻 🚚 🚛 🛵 🛺 🚲 🛴 🚨 🚁 ✈️
+🚀 🛸 🚢 ⛴️ 🛥️ 🚤
+
+⏰ Time & Objects
+⏰ ⌛ ⌚ 🕰️ 🪙 💵 💴 💶 💷 💳 🧾 📱 💻 🖥️ 🖨️ 🖱️ 🖲️ 💽 💾 💿 📀
+
+💡 Symbols & UI
+❤️ 🧡 💛 💚 💙 💜 🖤 🤍 🤎 💔 ❣️ 💕 💞 💓 💗 💖 💘 💝 💟
+✔️ ❌ ⛔ ⚠️ 🔔 🔕 🔒 🔓 🔑 🗝️ 🔍 🔎 ♻️ ✅ ➕ ➖ ➗ ✖️ ➡️ ⬅️ ⬆️ ⬇️
+

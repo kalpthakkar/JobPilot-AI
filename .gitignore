@@ -1,0 +1,28 @@
+# Environment and compiled files
+venv_jobpilot/
+__pycache__/
+*.pyc
+# Environment config
+.env
+requirements.txt
+# Ignore logs
+.logs/
+# Ignore ChromaDB persistent vector store
+.chroma_db/
+# Ignore ChromaDB hash tracking file
+.chroma_db/hash.txt
+# User context
+config/user_data.json
+# Ignore all PDF files in the 'Resume' directory (and subdirectories)
+config/Resume/*.pdf
+# Ignore any subdirectories or files within the 'Resume' directory
+config/Resume/**/*
+# Gmail API secrets
+.credentials/
+# Ignore Cache folder (contains NLTK data, etc.)
+.cache/
+# Ignore nltk-data folder
+.cache/nltk_data/
+# Ignore entire jobs directory
+.job_db/
+.job_db/**/*

@@ -1,0 +1,3 @@
+https://googlechromelabs.github.io/chrome-for-testing/#stable
+https://googlechromelabs.github.io/chrome-for-testing/known-good-versions-with-downloads.json
+

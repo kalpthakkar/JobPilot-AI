@@ -1,0 +1,19 @@
+# fly.toml
+app = "jobpilot-api"
+primary_region = "ord"
+
+[build]
+  dockerfile = "Dockerfile"
+
+[env]
+  JOB_DB = ".job_db/job_store.db"
+
+[mounts]
+  source = "jobpilot_data"
+  destination = "/app/.job_db"
+
+[http_service]
+  internal_port = 8080
+  force_https = true
+  auto_stop_machines = true
+  auto_start_machines = true

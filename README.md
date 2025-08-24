@@ -1,0 +1,1 @@
+Copy `config/user_data_template.json` to `config/user_data.json` and fill in your details.
