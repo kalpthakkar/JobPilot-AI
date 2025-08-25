@@ -127,7 +127,7 @@
 
 ---
 
-## 🚀 Setup & Installation
+## 📦 Setup & Installation
 
 To get started with **JobPilot AI**, follow these steps:
 
@@ -305,7 +305,7 @@ For any inquiries or support, please contact:
 
 - **Kalp Thakkar** - [kalpthakkar2001@gmail.com](mailto:kalpthakkar2001@gmail.com)
 - **GitHub**: [kalpthakkar](https://github.com/kalpthakkar)
-- **LinkedIn**: [kalpthakkar](https://linkedin.com/in/kalpthhakkar)
+- **LinkedIn**: [kalpthakkar](https://www.linkedin.com/in/kalpthakkar)
 
 ---
 
